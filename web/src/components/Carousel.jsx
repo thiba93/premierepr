@@ -3,9 +3,9 @@ import React, { useState, useEffect } from "react"
 const Carousel = () => {
   const [currentIndex, setCurrentIndex] = useState(0)
   const [images] = useState([
-    "meuble1.jpg",
-    "meuble2.jpg",
-    "meuble3.jpg",
+    "meuble4.jpg",
+    "meuble5.jpg",
+    "meuble6.jpg",
   ])
 
   useEffect(() => {
